@@ -10,6 +10,7 @@ Also, screenshot of run-time before refactoring is here: https://github.com/hill
 It is self-evident that our code refactoring was successful based on run-time. The time after refactoring is one quarter the timestamp before.
 
 ##Results-Favorite Stock
+
 ENPH is the most interesting stock in the group based on its performance. In 2017 it saw an ROI of 82% and in 2018 it saw an ROI of 130%. Compared to the average stock market annual return of ~10%, ENPPH saw a 24 month return of over 200%. More research is necessary to see how sustainable this growth is, it is however, remarkable.
 
 Screenshots of Final Analysis:https://github.com/hillinhank/stocks-analysis/blob/main/Screen Shot of Final Analysis 2017.png
